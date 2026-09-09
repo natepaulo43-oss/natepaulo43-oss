@@ -1,6 +1,6 @@
 ### Nate Paulo
 
-Technical PM / builder. Software Engineer, AI Integration & Product Strategy at Luminate — shipping RAG tools, analytics dashboards, and compliance automation. Incoming CMU MISM.
+Technical PM / builder. Software Engineer, AI Integration & Product Strategy at Luminate Bank. Shipping RAG tools, analytics dashboards, and compliance automation. Carnegie Mellon University M.S. Information Systems Management.
 
 **Featured builds**
 
